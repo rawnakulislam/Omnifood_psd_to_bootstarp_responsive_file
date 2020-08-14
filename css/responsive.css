@@ -1,0 +1,163 @@
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+.testimonial {
+	height: 65vh ;
+	display: none;
+}
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.testimonial {
+	height: 65vh ;
+	display: none;
+}
+    .partone {
+	margin: 25px 0;
+}
+    .fullpartone {
+	padding-top: 1%;
+}
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .nav-link {
+	text-align: center;
+}
+    .navbar-toggler:focus {
+	outline: 0;
+}
+.testimonial {
+	height: 65vh ;
+	display: none;
+}
+    .partone {
+	margin: 25px 0;
+}
+    .fullpartone {
+	padding-top: 1%;
+}
+.cardelement {
+	margin: 10px;
+}
+    .singleslide p {
+	margin: 0 150px;
+}
+.planelement {
+	margin-top: 15px;
+}
+
+
+
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+.nav-link {
+	text-align: center;
+}
+    .navbar-toggler:focus {
+	outline: 0;
+}
+.testimonial {
+	height: 65vh ;
+	display: none;
+}
+    .partone {
+	margin: 25px 0;
+}
+    .fullpartone {
+	padding-top: 1%;
+}
+.cardelement {
+	margin: 10px;
+}
+    .singleslide p {
+	margin: 0 90px;
+}
+.planelement {
+	margin-top: 15px;
+}
+.righticon.slick-arrow {
+	display: none !important;
+}
+    .lefticon.slick-arrow {
+	display: none !important;
+}
+    .titel {
+	font-size: 28px;
+}
+
+
+
+
+}
+
+
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+.nav-link {
+	text-align: center;
+}
+    .navbar-toggler:focus {
+	outline: 0;
+}
+.testimonial {
+	height: 65vh ;
+	display: none;
+}
+    .partone {
+	margin: 25px 0;
+}
+    .fullpartone {
+	padding-top: 1%;
+}
+.cardelement {
+	margin: 10px;
+}
+   .singleslide p {
+	margin: 0 1px;
+}
+.planelement {
+	margin-top: 15px;
+}
+.righticon.slick-arrow {
+	display: none !important;
+}
+.lefticon.slick-arrow {
+	display: none !important;
+}
+    .titel {
+	font-size: 28px;
+}
+.bantext {
+	font-size: 35px;
+}
+.cardtitel p {
+	margin: 0 10px;
+}
+.partThree img {
+	width: 90%;
+	margin-left: 1px;
+}
+.contactbtn {
+	padding: 8px 21px;
+	margin-left: 50%;
+	width: 83%;
+	border: none;
+}
+.contact {
+	padding: 60px 10px;
+}
+    .footer h2 {
+	font-size: 20px;
+}
+.copyright p {
+	font-size: 14px;
+}
+}
+
+
+
+
